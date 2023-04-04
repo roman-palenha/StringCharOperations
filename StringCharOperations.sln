@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCharOperations", "StringCharOperations.csproj", "{505F8E73-D6E5-48DC-AB0D-07C4A28E766A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{505F8E73-D6E5-48DC-AB0D-07C4A28E766A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505F8E73-D6E5-48DC-AB0D-07C4A28E766A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505F8E73-D6E5-48DC-AB0D-07C4A28E766A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505F8E73-D6E5-48DC-AB0D-07C4A28E766A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBB9E10C-9D57-424F-9EB1-631695FDDF83}
+	EndGlobalSection
+EndGlobal
